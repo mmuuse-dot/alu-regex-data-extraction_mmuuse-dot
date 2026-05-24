@@ -4,8 +4,6 @@ Official Contacts:
 john.doe@alueducation.com
 mary_smith@alumni.alueducation.com
 support.team@si.alueducation.com
-
-General Emails:
 client99@gmail.com
 helpdesk@yahoo.com
 
@@ -15,8 +13,10 @@ fake@alueducation
 <script>alert('hack')</script>@gmail.com
 
 Payment Records:
-Visa: 4111 1111 1111 1111
-MasterCard: 5500-0000-0000-0004
+Visa: 4112 2234 2452 6353
+Visa: 3546 2736 4837 2222
+MasterCard: 5503 4576 2454 2304
+MasterCard: 6644 6523 35474 8263
 Invalid Card: 1234-5678
 
 Websites:
@@ -30,8 +30,9 @@ javascript:alert(1)
 
 Phone Numbers:
 +250 788 123 456
-(202) 555-0173
-202-555-0199
++250 473 273 112
++250 374 183 284
++250 374 221 331
 
 Invalid Numbers:
 123-abc-7890
@@ -39,4 +40,4 @@ Invalid Numbers:
 Potential Attack Strings:
 DROP TABLE users;
 '; DELETE FROM accounts; --
-<script>alert("xss")</script>
+<script>alert("xss")</script></script>
