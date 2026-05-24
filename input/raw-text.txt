@@ -1,0 +1,42 @@
+Customer Support Report - May 2026
+
+Official Contacts:
+john.doe@alueducation.com
+mary_smith@alumni.alueducation.com
+support.team@si.alueducation.com
+
+General Emails:
+client99@gmail.com
+helpdesk@yahoo.com
+
+Invalid Emails:
+admin@@gmail.com
+fake@alueducation
+<script>alert('hack')</script>@gmail.com
+
+Payment Records:
+Visa: 4111 1111 1111 1111
+MasterCard: 5500-0000-0000-0004
+Invalid Card: 1234-5678
+
+Websites:
+https://www.alueducation.com
+http://example.org/products?id=22
+https://github.com
+
+Broken URLs:
+htp://wrong.com
+javascript:alert(1)
+
+Phone Numbers:
++250 788 123 456
+(202) 555-0173
+202-555-0199
+
+Invalid Numbers:
+123-abc-7890
+
+Potential Attack Strings:
+DROP TABLE users;
+'; DELETE FROM accounts; --
+<script>alert("xss")</script>
