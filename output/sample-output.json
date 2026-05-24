@@ -1,32 +1,36 @@
 {
-    "valid_emails": [
-        "john.doe@alueducation.com",
-        "mary_smith@alumni.alueducation.com",
-        "support.team@si.alueducation.com",
+    "Emails": [
         "client99@gmail.com",
-        "helpdesk@yahoo.com"
-    ],
-    "alu_official_emails": [
-        "john.doe@alueducation.com"
-    ],
-    "alu_alumni_emails": [
+        "john.doe@alueducation.com",
+        "helpdesk@yahoo.com",
+        "support.team@si.alueducation.com",
         "mary_smith@alumni.alueducation.com"
     ],
-    "alu_si_emails": [
-        "support.team@si.alueducation.com"
-    ],
     "urls": [
-        "https://www.alueducation.com",
-        "http://example.org/products?id=22",
-        "https://github.com"
-    ],
-    "phone_numbers": [
-        "+250 788 123 456",
-        "(202) 555-0173",
-        "202-555-0199"
+        "https://www.example.com",
+        "http://blog.myservice.net",
+        "http://myservice.net/users/profile",
+        "https://sub.domain-example.org/deals",
+        "https://www.example.com",
+        "https://sub.domain-example.org/deals?page=3&x=1"
     ],
     "credit_cards": [
-        "4111 **** **** 1111",
-        "5500 **** **** 0004"
-    ]
+        "9310 **** **** 5422",
+        "2368 **** **** 9632",
+        "7544 **** **** 0004",
+        "9090 **** **** 7777"
+
+    ],
+    "currency_amounts": [
+        "$12",
+        "$100.00",
+        "$19",
+        "$19.00",
+        "$0.99",
+        "$1,249.99",
+        "$12",
+        "$100.00",
+        "$19.00"
+    ],
+   
 }
