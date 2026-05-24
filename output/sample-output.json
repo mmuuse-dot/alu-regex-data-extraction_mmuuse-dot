@@ -1,0 +1,32 @@
+{
+    "valid_emails": [
+        "john.doe@alueducation.com",
+        "mary_smith@alumni.alueducation.com",
+        "support.team@si.alueducation.com",
+        "client99@gmail.com",
+        "helpdesk@yahoo.com"
+    ],
+    "alu_official_emails": [
+        "john.doe@alueducation.com"
+    ],
+    "alu_alumni_emails": [
+        "mary_smith@alumni.alueducation.com"
+    ],
+    "alu_si_emails": [
+        "support.team@si.alueducation.com"
+    ],
+    "urls": [
+        "https://www.alueducation.com",
+        "http://example.org/products?id=22",
+        "https://github.com"
+    ],
+    "phone_numbers": [
+        "+250 788 123 456",
+        "(202) 555-0173",
+        "202-555-0199"
+    ],
+    "credit_cards": [
+        "4111 **** **** 1111",
+        "5500 **** **** 0004"
+    ]
+}
